@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 02162ad566bc31a4a930fca1caa3466b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8294450458681568409
+    second: sorccastdown_0
+  - first:
+      213: -2283636837056143657
+    second: sorccastdown_1
+  - first:
+      213: 501768645816316319
+    second: sorccastdown_2
+  - first:
+      213: -8717821915473160621
+    second: sorccastdown_3
+  - first:
+      213: -247058771975956918
+    second: sorccastdown_4
+  - first:
+      213: 6168684212247711662
+    second: sorccastdown_5
+  - first:
+      213: 7459039903621703068
+    second: sorccastdown_6
+  - first:
+      213: -2499942237135821180
+    second: sorccastdown_7
+  - first:
+      213: 8400600838275757379
+    second: sorccastdown_8
+  - first:
+      213: -3629112684704450491
+    second: sorccastdown_9
+  - first:
+      213: 2586407763621101514
+    second: sorccastdown_10
+  - first:
+      213: -6147298494269547152
+    second: sorccastdown_11
+  - first:
+      213: -6228085906263305753
+    second: sorccastdown_12
+  - first:
+      213: -1087271522727629955
+    second: sorccastdown_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sorccastdown_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c6acc0fbecb1370800000000000000
+      internalID: 8294450458681568409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorccastdown_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 0
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de954b5564ee40e0800000000000000
+      internalID: -2283636837056143657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorccastdown_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 0
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f917f45cce3a6f600800000000000000
+      internalID: 501768645816316319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorccastdown_3
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 0
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3565b192823140780800000000000000
+      internalID: -8717821915473160621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorccastdown_4
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 0
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a469ab91b55429cf0800000000000000
+      internalID: -247058771975956918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorccastdown_5
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 0
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafc592ab919b9550800000000000000
+      internalID: 6168684212247711662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorccastdown_6
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 0
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95e5dcc545d38760800000000000000
+      internalID: 7459039903621703068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorccastdown_7
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 0
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4862684d7cb6e4dd0800000000000000
+      internalID: -2499942237135821180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorccastdown_8
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 0
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345764144fde49470800000000000000
+      internalID: 8400600838275757379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorccastdown_9
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 0
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548b35abd3dc2adc0800000000000000
+      internalID: -3629112684704450491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorccastdown_10
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 0
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfb2fa5824c4e320800000000000000
+      internalID: 2586407763621101514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorccastdown_11
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 0
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d15c8d69860baa0800000000000000
+      internalID: -6147298494269547152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorccastdown_12
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 0
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e11f86bdd46199a0800000000000000
+      internalID: -6228085906263305753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorccastdown_13
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 0
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7beb698f4c39e0f0800000000000000
+      internalID: -1087271522727629955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

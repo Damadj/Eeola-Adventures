@@ -1,0 +1,874 @@
+fileFormatVersion: 2
+guid: 27971f4f6dc0ac043aa7b4a9c7201096
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8006433946794497953
+    second: _taffed_0
+  - first:
+      213: -4483997265875932963
+    second: _taffed_1
+  - first:
+      213: -6116974154639388042
+    second: _taffed_2
+  - first:
+      213: 5914993594913663991
+    second: _taffed_3
+  - first:
+      213: 8344043686441372554
+    second: _taffed_4
+  - first:
+      213: 5863713414539235606
+    second: _taffed_5
+  - first:
+      213: -7749929116417892750
+    second: _taffed_6
+  - first:
+      213: -5399267942828743294
+    second: _taffed_7
+  - first:
+      213: -5282267834411218687
+    second: _taffed_8
+  - first:
+      213: -1324246188500299458
+    second: _taffed_9
+  - first:
+      213: -1493837117163928054
+    second: _taffed_10
+  - first:
+      213: -3699428607386107102
+    second: _taffed_11
+  - first:
+      213: -7748289512965580022
+    second: _taffed_12
+  - first:
+      213: -3695743583998168245
+    second: _taffed_13
+  - first:
+      213: 2889609084367242987
+    second: _taffed_14
+  - first:
+      213: 7842163138361572754
+    second: _taffed_15
+  - first:
+      213: 2248924823749607678
+    second: _taffed_16
+  - first:
+      213: 5747076461906005049
+    second: _taffed_17
+  - first:
+      213: 7234556495809709140
+    second: _taffed_18
+  - first:
+      213: 5077896618760572281
+    second: _taffed_19
+  - first:
+      213: 7681825710218928062
+    second: _taffed_20
+  - first:
+      213: 1079388793692279200
+    second: _taffed_21
+  - first:
+      213: 4983237739559796866
+    second: _taffed_22
+  - first:
+      213: 3767702787664107753
+    second: _taffed_23
+  - first:
+      213: -665246494162925772
+    second: _taffed_24
+  - first:
+      213: -9221976484096395153
+    second: _taffed_25
+  - first:
+      213: -2570597327479522820
+    second: _taffed_26
+  - first:
+      213: 5935083359915326070
+    second: _taffed_27
+  - first:
+      213: -3335093804221776975
+    second: _taffed_28
+  - first:
+      213: 4413245314587486596
+    second: _taffed_29
+  - first:
+      213: 678752030528427328
+    second: _taffed_30
+  - first:
+      213: 4401825667910521841
+    second: _taffed_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _taffed_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f586fabcebe63e090800000000000000
+      internalID: -8006433946794497953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _taffed_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd864a17e34a5c1c0800000000000000
+      internalID: -4483997265875932963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _taffed_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672597c5a642c1ba0800000000000000
+      internalID: -6116974154639388042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _taffed_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb2a89e557461250800000000000000
+      internalID: 5914993594913663991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _taffed_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bcda0368ffbc370800000000000000
+      internalID: 8344043686441372554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _taffed_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611dd428848106150800000000000000
+      internalID: 5863713414539235606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _taffed_6
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e547d8788b27490800000000000000
+      internalID: -7749929116417892750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _taffed_7
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285e98c9962f115b0800000000000000
+      internalID: -5399267942828743294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _taffed_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1098279246d91b6b0800000000000000
+      internalID: -5282267834411218687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _taffed_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3156439b155f9de0800000000000000
+      internalID: -1324246188500299458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _taffed_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06862f7e03d44be0800000000000000
+      internalID: -1493837117163928054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _taffed_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22345d0384df8acc0800000000000000
+      internalID: -3699428607386107102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _taffed_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b5dca7dbb887490800000000000000
+      internalID: -7748289512965580022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _taffed_13
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b433cde8ac416bcc0800000000000000
+      internalID: -3695743583998168245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _taffed_14
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be683750724f91820800000000000000
+      internalID: 2889609084367242987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _taffed_15
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d34b423d5f4dc60800000000000000
+      internalID: 7842163138361572754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _taffed_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0472e3639c53f10800000000000000
+      internalID: 2248924823749607678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _taffed_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c8ae0c797b1cf40800000000000000
+      internalID: 5747076461906005049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _taffed_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4548b387dce466460800000000000000
+      internalID: 7234556495809709140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _taffed_19
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d81672210587640800000000000000
+      internalID: 5077896618760572281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _taffed_20
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfdf0c88c35b9a60800000000000000
+      internalID: 7681825710218928062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _taffed_21
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1d0969362cafe00800000000000000
+      internalID: 1079388793692279200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _taffed_22
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28048c16254082540800000000000000
+      internalID: 4983237739559796866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _taffed_23
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8d7f529b1994430800000000000000
+      internalID: 3767702787664107753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _taffed_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437485396d194c6f0800000000000000
+      internalID: -665246494162925772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _taffed_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68bd627f35f40080800000000000000
+      internalID: -9221976484096395153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _taffed_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9b30ba957635cd0800000000000000
+      internalID: -2570597327479522820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _taffed_27
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ab514ded6ad5250800000000000000
+      internalID: 5935083359915326070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _taffed_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb31caeadd57b1d0800000000000000
+      internalID: -3335093804221776975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _taffed_29
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489e4a23b3ffe3d30800000000000000
+      internalID: 4413245314587486596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _taffed_30
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045d83620696b6900800000000000000
+      internalID: 678752030528427328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _taffed_31
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3d0038f1d661d30800000000000000
+      internalID: 4401825667910521841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

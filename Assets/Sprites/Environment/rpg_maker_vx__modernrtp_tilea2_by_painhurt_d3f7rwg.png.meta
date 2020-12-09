@@ -1,0 +1,874 @@
+fileFormatVersion: 2
+guid: d1ebd1cf5b31a834aa9aecd6293dcd04
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1338660322223605960
+    second: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_0
+  - first:
+      213: -5835136494296797899
+    second: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_1
+  - first:
+      213: -2010943070499520696
+    second: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_2
+  - first:
+      213: -4176916344752653113
+    second: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_3
+  - first:
+      213: -1392033120449385846
+    second: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_4
+  - first:
+      213: 7733718278371890877
+    second: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_5
+  - first:
+      213: -6710431355958628271
+    second: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_6
+  - first:
+      213: 446396355075687111
+    second: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_7
+  - first:
+      213: -3797111475679844168
+    second: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_8
+  - first:
+      213: 4260322628902401371
+    second: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_9
+  - first:
+      213: -6098987342082097781
+    second: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_10
+  - first:
+      213: -8670348226420621289
+    second: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_11
+  - first:
+      213: 7643408716770733112
+    second: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_12
+  - first:
+      213: -6186593194408296103
+    second: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_13
+  - first:
+      213: 8816187387629142985
+    second: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_14
+  - first:
+      213: 4893188101894344461
+    second: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_15
+  - first:
+      213: -6296099481123321594
+    second: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_16
+  - first:
+      213: 8341223153542865306
+    second: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_17
+  - first:
+      213: -6169871385908507927
+    second: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_18
+  - first:
+      213: -2289725068056309914
+    second: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_19
+  - first:
+      213: 7354392860975925034
+    second: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_20
+  - first:
+      213: -5219081801426629194
+    second: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_21
+  - first:
+      213: 4275032945110027667
+    second: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_22
+  - first:
+      213: -3330016431454456867
+    second: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_23
+  - first:
+      213: 4216769157385223759
+    second: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_24
+  - first:
+      213: 575140094723040661
+    second: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_25
+  - first:
+      213: 6872180532190120639
+    second: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_26
+  - first:
+      213: 1053588309397674301
+    second: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_27
+  - first:
+      213: -55516306679078557
+    second: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_28
+  - first:
+      213: 8026864865984419951
+    second: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_29
+  - first:
+      213: 3877349763892585406
+    second: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_30
+  - first:
+      213: 7632087961188963775
+    second: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191.25
+        width: 64
+        height: 63.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837b3fa878f1c6de0800000000000000
+      internalID: -1338660322223605960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 191.25
+        width: 64
+        height: 63.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d6589364e650fa0800000000000000
+      internalID: -5835136494296797899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 191.25
+        width: 64
+        height: 63.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fb75b8ee1b714e0800000000000000
+      internalID: -2010943070499520696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 191.25
+        width: 64
+        height: 63.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccbe76f6bc9806c0800000000000000
+      internalID: -4176916344752653113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 191.25
+        width: 64
+        height: 63.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a290490418eace0800000000000000
+      internalID: -1392033120449385846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 191.25
+        width: 64
+        height: 63.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db65d479ccfa35b60800000000000000
+      internalID: 7733718278371890877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 191.25
+        width: 64
+        height: 63.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15071723c32cfd2a0800000000000000
+      internalID: -6710431355958628271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 191.25
+        width: 64
+        height: 63.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2c05dae1be13600800000000000000
+      internalID: 446396355075687111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128.25
+        width: 64
+        height: 63.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b82b871b33fd4bc0800000000000000
+      internalID: -3797111475679844168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128.25
+        width: 64
+        height: 63.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55394cdbd4bf1b30800000000000000
+      internalID: 4260322628902401371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128.25
+        width: 64
+        height: 63.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8db791835b0c5ba0800000000000000
+      internalID: -6098987342082097781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128.25
+        width: 64
+        height: 63.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710c24db93cbca780800000000000000
+      internalID: -8670348226420621289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128.25
+        width: 64
+        height: 63.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c6e3c3bb7d21a60800000000000000
+      internalID: 7643408716770733112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128.25
+        width: 64
+        height: 63.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951c175844ec42aa0800000000000000
+      internalID: -6186593194408296103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128.25
+        width: 64
+        height: 63.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c30ae808b3695a70800000000000000
+      internalID: 8816187387629142985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128.25
+        width: 64
+        height: 63.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f849847a818e340800000000000000
+      internalID: 4893188101894344461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65.25
+        width: 64
+        height: 63.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6098f1d41e2cf98a0800000000000000
+      internalID: -6296099481123321594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 65.25
+        width: 64
+        height: 63.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91af23b34af1c370800000000000000
+      internalID: 8341223153542865306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 65.25
+        width: 64
+        height: 63.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea8315f9a6306aa0800000000000000
+      internalID: -6169871385908507927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 65.25
+        width: 64
+        height: 63.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f423d9e234930e0800000000000000
+      internalID: -2289725068056309914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 65.25
+        width: 64
+        height: 63.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a278321875d001660800000000000000
+      internalID: 7354392860975925034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 65.25
+        width: 64
+        height: 63.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd8244e0c81297b0800000000000000
+      internalID: -5219081801426629194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 65.25
+        width: 64
+        height: 63.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d006040d7f35b30800000000000000
+      internalID: 4275032945110027667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 65.25
+        width: 64
+        height: 63.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd371f2e2b769c1d0800000000000000
+      internalID: -3330016431454456867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.25
+        width: 64
+        height: 63.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ef4cd0539f48a30800000000000000
+      internalID: 4216769157385223759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2.25
+        width: 64
+        height: 63.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5952d027ede4bf700800000000000000
+      internalID: 575140094723040661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2.25
+        width: 64
+        height: 63.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba0c8d98c3ee5f50800000000000000
+      internalID: 6872180532190120639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2.25
+        width: 64
+        height: 63.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3917293cf81f9e00800000000000000
+      internalID: 1053588309397674301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2.25
+        width: 64
+        height: 63.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361e6259634ca3ff0800000000000000
+      internalID: -55516306679078557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2.25
+        width: 64
+        height: 63.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6890154117256f60800000000000000
+      internalID: 8026864865984419951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2.25
+        width: 64
+        height: 63.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb323c2311d1fc530800000000000000
+      internalID: 3877349763892585406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2.25
+        width: 64
+        height: 63.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5143d609f9ae960800000000000000
+      internalID: 7632087961188963775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

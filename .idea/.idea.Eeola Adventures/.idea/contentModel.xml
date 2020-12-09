@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\git\Eeola Adventures" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="ARPG Effects" t="Include">
+          <e p="Demo" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="ARPGFXLoopScript.cs" t="Include" />
+              <e p="ButtonScript.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="ARPGFXLightFade.cs" t="Include" />
+            <e p="ARPGFXPortalScript.cs" t="Include" />
+            <e p="ARPGFXRotation.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Buttons" t="Include">
+            <e p="ActionButton.cs" t="Include" />
+            <e p="CharButton.cs" t="Include" />
+            <e p="LootButton.cs" t="Include" />
+            <e p="PotionButton.cs" t="Include" />
+            <e p="SpellButton.cs" t="Include" />
+            <e p="UIButton.cs" t="Include" />
+            <e p="VendorButton.cs" t="Include" />
+          </e>
+          <e p="CharacterPanel" t="Include">
+            <e p="CharacterPanel.cs" t="Include" />
+            <e p="StatsPanel.cs" t="Include" />
+          </e>
+          <e p="CharacterRelated" t="Include">
+            <e p="Block.cs" t="Include" />
+            <e p="Character.cs" t="Include" />
+            <e p="Eeola.cs" t="Include" />
+            <e p="Enemy.cs" t="Include" />
+            <e p="Exp.cs" t="Include" />
+            <e p="HitBox.cs" t="Include" />
+            <e p="LayerSorter.cs" t="Include" />
+            <e p="NPC.cs" t="Include" />
+            <e p="Range.cs" t="Include" />
+            <e p="Stat.cs" t="Include" />
+          </e>
+          <e p="Environment" t="Include">
+            <e p="Gate.cs" t="Include" />
+            <e p="Obstacle.cs" t="Include" />
+          </e>
+          <e p="Interfaces" t="Include">
+            <e p="IClickable.cs" t="Include" />
+            <e p="IDescribable.cs" t="Include" />
+            <e p="IInteractable.cs" t="Include" />
+            <e p="IMovable.cs" t="Include" />
+            <e p="IUsable.cs" t="Include" />
+          </e>
+          <e p="Inventory" t="Include">
+            <e p="Chest.cs" t="Include" />
+            <e p="ChestScript.cs" t="Include" />
+            <e p="InventoryScript.cs" t="Include" />
+            <e p="SlotScript.cs" t="Include" />
+          </e>
+          <e p="Items" t="Include">
+            <e p="Armor.cs" t="Include" />
+            <e p="Gold.cs" t="Include" />
+            <e p="HealthPotion.cs" t="Include" />
+            <e p="Item.cs" t="Include" />
+            <e p="ManaPotion.cs" t="Include" />
+            <e p="QualityColor.cs" t="Include" />
+          </e>
+          <e p="Loot" t="Include">
+            <e p="Loot.cs" t="Include" />
+            <e p="LootTable.cs" t="Include" />
+            <e p="LootWindow.cs" t="Include" />
+          </e>
+          <e p="Managers" t="Include">
+            <e p="GameManager.cs" t="Include" />
+            <e p="KeyBindManager.cs" t="Include" />
+            <e p="MessageFeedManager.cs" t="Include" />
+            <e p="SaveManager.cs" t="Include" />
+            <e p="UIManager.cs" t="Include" />
+            <e p="XPManager.cs" t="Include" />
+          </e>
+          <e p="Other" t="Include">
+            <e p="HandScript.cs" t="Include" />
+            <e p="ObservableStack.cs" t="Include" />
+            <e p="Window.cs" t="Include" />
+          </e>
+          <e p="Quest" t="Include">
+            <e p="QGQuestScript.cs" t="Include" />
+            <e p="Quest.cs" t="Include" />
+            <e p="QuestGiver.cs" t="Include" />
+            <e p="QuestGiverWindow.cs" t="Include" />
+            <e p="QuestLog.cs" t="Include" />
+            <e p="QuestScript.cs" t="Include" />
+          </e>
+          <e p="Saving" t="Include">
+            <e p="SaveData.cs" t="Include" />
+            <e p="SavedGame.cs" t="Include" />
+          </e>
+          <e p="SCT" t="Include">
+            <e p="CombatText.cs" t="Include" />
+            <e p="CombatTextManager.cs" t="Include" />
+          </e>
+          <e p="Spells" t="Include">
+            <e p="ParticleSystemAutoDestroy.cs" t="Include" />
+            <e p="Projectile.cs" t="Include" />
+            <e p="SpellBook.cs" t="Include" />
+          </e>
+          <e p="Tiles" t="Include">
+            <e p="TreeTile.cs" t="Include" />
+            <e p="WaterTile.cs" t="Include" />
+          </e>
+          <e p="Vendor" t="Include">
+            <e p="Vendor.cs" t="Include" />
+            <e p="VendorItem.cs" t="Include" />
+            <e p="VendorWindow.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Eeola Adventures.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\Hello There\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Hello There\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Eeola Adventures.-2111682521.00" t="ExcludeRecursive" />
+  </component>
+</project>

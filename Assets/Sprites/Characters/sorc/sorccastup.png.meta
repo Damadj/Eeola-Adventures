@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 9f1ba9fea8432c2468e75a1850e7e729
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8611995573645564644
+    second: sorccastup_0
+  - first:
+      213: 8249208696375288271
+    second: sorccastup_1
+  - first:
+      213: 3845736875611296553
+    second: sorccastup_2
+  - first:
+      213: -5120356997665470947
+    second: sorccastup_3
+  - first:
+      213: 2961241441727894507
+    second: sorccastup_4
+  - first:
+      213: 5820783201324769952
+    second: sorccastup_5
+  - first:
+      213: -373898472546614463
+    second: sorccastup_6
+  - first:
+      213: -1285917455664790361
+    second: sorccastup_7
+  - first:
+      213: 295332189086190401
+    second: sorccastup_8
+  - first:
+      213: -8650876105329910916
+    second: sorccastup_9
+  - first:
+      213: -2098799945449337911
+    second: sorccastup_10
+  - first:
+      213: -3829405608969234299
+    second: sorccastup_11
+  - first:
+      213: 7466939092898913918
+    second: sorccastup_12
+  - first:
+      213: -4622791416057167429
+    second: sorccastup_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sorccastup_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15ae9177ab0c7880800000000000000
+      internalID: -8611995573645564644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorccastup_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 0
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc123896a931b7270800000000000000
+      internalID: 8249208696375288271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorccastup_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 0
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9239e62105dce5530800000000000000
+      internalID: 3845736875611296553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorccastup_3
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 0
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16c6fe7076d0f8b0800000000000000
+      internalID: -5120356997665470947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorccastup_4
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 0
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be35b54e661781920800000000000000
+      internalID: 2961241441727894507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorccastup_5
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 0
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a226855b7397c050800000000000000
+      internalID: 5820783201324769952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorccastup_6
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 0
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1434cc9f155afcaf0800000000000000
+      internalID: -373898472546614463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorccastup_7
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 0
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a440ac13e0872ee0800000000000000
+      internalID: -1285917455664790361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorccastup_8
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 0
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b883daf0b391400800000000000000
+      internalID: 295332189086190401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorccastup_9
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 0
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b55e9340ae1f780800000000000000
+      internalID: -8650876105329910916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorccastup_10
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 0
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb02ecc1909fd2e0800000000000000
+      internalID: -2098799945449337911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorccastup_11
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 0
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588108043e73bdac0800000000000000
+      internalID: -3829405608969234299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorccastup_12
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 0
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e97bf1b85ef9760800000000000000
+      internalID: 7466939092898913918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorccastup_13
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 0
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1003f13bb88dfb0800000000000000
+      internalID: -4622791416057167429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

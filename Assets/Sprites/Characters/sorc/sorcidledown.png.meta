@@ -1,0 +1,490 @@
+fileFormatVersion: 2
+guid: 96e6540e446cef045b4094bd29b3c994
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5711076932379676688
+    second: sorcidledown_0
+  - first:
+      213: 2927869656658522521
+    second: sorcidledown_1
+  - first:
+      213: 2474033057888052605
+    second: sorcidledown_2
+  - first:
+      213: 9204345298706486668
+    second: sorcidledown_3
+  - first:
+      213: 5843758790219505624
+    second: sorcidledown_4
+  - first:
+      213: 7284058634694152109
+    second: sorcidledown_5
+  - first:
+      213: 3122502340186353378
+    second: sorcidledown_6
+  - first:
+      213: -4969769406809544864
+    second: sorcidledown_7
+  - first:
+      213: 6501385224017990142
+    second: sorcidledown_8
+  - first:
+      213: 2854487108350519766
+    second: sorcidledown_9
+  - first:
+      213: -1353991069721248367
+    second: sorcidledown_10
+  - first:
+      213: 669374827547664925
+    second: sorcidledown_11
+  - first:
+      213: -7505180551803947072
+    second: sorcidledown_12
+  - first:
+      213: 6339245514224515470
+    second: sorcidledown_13
+  - first:
+      213: -8020781893012856947
+    second: sorcidledown_14
+  - first:
+      213: -4845763561501275537
+    second: sorcidledown_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sorcidledown_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0101b6f1632d14f40800000000000000
+      internalID: 5711076932379676688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorcidledown_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991b6c1b0f1e1a820800000000000000
+      internalID: 2927869656658522521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorcidledown_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75adf945f7855220800000000000000
+      internalID: 2474033057888052605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorcidledown_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85df6f48476cbf70800000000000000
+      internalID: 9204345298706486668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorcidledown_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df991c78a3391150800000000000000
+      internalID: 5843758790219505624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorcidledown_5
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafcf045cbc261560800000000000000
+      internalID: 7284058634694152109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorcidledown_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee222da55b555b20800000000000000
+      internalID: 3122502340186353378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorcidledown_7
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06763833e05d70bb0800000000000000
+      internalID: -4969769406809544864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorcidledown_8
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1d0995a6f893a50800000000000000
+      internalID: 6501385224017990142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorcidledown_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d92a2db6ec2d9720800000000000000
+      internalID: 2854487108350519766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorcidledown_10
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19db63cbb48a53de0800000000000000
+      internalID: -1353991069721248367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorcidledown_11
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 0
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d122191fbd81a4900800000000000000
+      internalID: 669374827547664925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorcidledown_12
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c73e826d0e38d790800000000000000
+      internalID: -7505180551803947072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorcidledown_13
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 0
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89375b553689f750800000000000000
+      internalID: 6339245514224515470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorcidledown_14
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f551e3d5570b090800000000000000
+      internalID: -8020781893012856947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorcidledown_15
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a4f2bf6b360ccb0800000000000000
+      internalID: -4845763561501275537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

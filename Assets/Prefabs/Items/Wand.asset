@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06863820724d65647ad98ce823a6a61d, type: 3}
+  m_Name: Wand
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 87840bfe765ea4b4ea732d5c14557b32, type: 3}
+  stackSize: 0
+  title: Unique Wand
+  quality: 3
+  price: 150
+  armorType: 11
+  intelligence: 15
+  strength: 5
+  agility: 0
