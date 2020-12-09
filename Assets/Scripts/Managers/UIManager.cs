@@ -38,14 +38,18 @@ public class UIManager : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Escape))
+        if (SceneManager.GetActiveScene().buildIndex != 0)
         {
-            if (Eeola.MyInstance != null)
+            if (Input.GetKeyDown(KeyCode.Escape))
             {
-                CloseLeftSide(KeyBindManager.MyInstance);
-                CloseRightSide(KeyBindManager.MyInstance);
+                if (Eeola.MyInstance != null)
+                {
+                    CloseLeftSide(KeyBindManager.MyInstance);
+                    CloseRightSide(KeyBindManager.MyInstance);
+                }
+
+                OpenClose(menus[0]);
             }
-            OpenClose(menus[0]);            
         }
 
         if (Eeola.MyInstance != null && !MenuOpen)

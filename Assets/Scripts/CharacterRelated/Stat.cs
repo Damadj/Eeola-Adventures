@@ -42,7 +42,7 @@ public class Stat : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
                 myCurrentValue = value;
             currentFill = myCurrentValue / MyMaxValue;
             if (statValue != null)
-                statValue.text = myCurrentValue + " / " + MyMaxValue;
+                statValue.text = Mathf.Floor(myCurrentValue) + " / " + MyMaxValue;
         }
     }
     void Start()

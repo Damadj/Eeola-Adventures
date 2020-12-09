@@ -55,7 +55,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterRelated/Character.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Managers/XPManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Quest/QuestScript.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterRelated/Stat.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Items/Armor.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Spells/Projectile.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Buttons/CharButton.cs" />
@@ -89,10 +88,11 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Tiles/TreeTile.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterRelated/Eeola.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Environment/Obstacle.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Managers/SaveManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Loot/LootWindow.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Managers/UIManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Environment/Gate.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterRelated/Stat.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Managers/UIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Managers/SaveManager.cs" />
       </list>
     </option>
   </component>
@@ -179,6 +179,7 @@
       <workItem from="1607370968106" duration="2163000" />
       <workItem from="1607407416930" duration="8099000" />
       <workItem from="1607493901501" duration="6846000" />
+      <workItem from="1607513600318" duration="3108000" />
     </task>
     <servers />
   </component>

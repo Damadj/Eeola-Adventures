@@ -30,20 +30,20 @@ public class SaveManager : MonoBehaviour
 
     private void Start()
     {
-        if (UIManager.MyInstance.MyCinemachines.Length > 2) UIManager.MyInstance.MyCinemachines[2].SetActive(false);
+        // if (UIManager.MyInstance.MyCinemachines.Length > 2) UIManager.MyInstance.MyCinemachines[2].SetActive(false);
         
         Time.timeScale = 1;
         if (PlayerPrefs.HasKey("Load") && !PlayerPrefs.HasKey("NewGame"))
         {
             Load(saveSlots[PlayerPrefs.GetInt("Load")]);
             PlayerPrefs.DeleteKey("Load");
-            if (UIManager.MyInstance.MyCinemachines.Length > 2) UIManager.MyInstance.MyCinemachines[1].SetActive(true);
+            // if (UIManager.MyInstance.MyCinemachines.Length > 2) UIManager.MyInstance.MyCinemachines[1].SetActive(true);
         }
         else if (PlayerPrefs.HasKey("NewGame"))
         {
             Eeola.MyInstance.SetDefaultValues();
             PlayerPrefs.DeleteKey("NewGame");
-            if (UIManager.MyInstance.MyCinemachines.Length > 2) UIManager.MyInstance.MyCinemachines[1].SetActive(true);
+            // if (UIManager.MyInstance.MyCinemachines.Length > 2) UIManager.MyInstance.MyCinemachines[1].SetActive(true);
         }        
     }
 
@@ -146,6 +146,7 @@ public class SaveManager : MonoBehaviour
             file.Close();
             ShowSavedFiles(savedGame);
             PlayerPrefs.SetInt("Load", savedGame.MyIndex);
+            UIManager.MyInstance.QuitToMainMenu();
         }
         catch (Exception)
         {
@@ -170,7 +171,7 @@ public class SaveManager : MonoBehaviour
             LoadQuests(data);
             LoadQuestGivers(data);
             LoadPlayer(data);
-            UIManager.MyInstance.MyCinemachines[1].transform.position = new Vector3(data.MyPlayerData.MyPositionX, data.MyPlayerData.MyPositionY, -10);
+            // UIManager.MyInstance.MyCinemachines[1].transform.position = new Vector3(data.MyPlayerData.MyPositionX, data.MyPlayerData.MyPositionY, -10);
         }
         catch (Exception)
         {

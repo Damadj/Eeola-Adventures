@@ -2,19 +2,17 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\git\Eeola Adventures" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="ARPG Effects" t="Include">
-          <e p="Demo" t="Include">
-            <e p="Scripts" t="Include">
-              <e p="ARPGFXLoopScript.cs" t="Include" />
-              <e p="ButtonScript.cs" t="Include" />
+        <e p="Plugins" t="Include">
+          <e p="GitHub" t="Include">
+            <e p="Editor" t="Include">
+              <e p="credits.txt" t="Include" />
+              <e p="eula.txt" t="Include" />
+              <e p="ExtensionLoader.cs" t="Include" />
+              <e p="UnityAPIWrapper.cs" t="Include" />
             </e>
-          </e>
-          <e p="Scripts" t="Include">
-            <e p="ARPGFXLightFade.cs" t="Include" />
-            <e p="ARPGFXPortalScript.cs" t="Include" />
-            <e p="ARPGFXRotation.cs" t="Include" />
           </e>
         </e>
         <e p="Scripts" t="Include">
